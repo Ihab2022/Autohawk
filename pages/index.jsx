@@ -39,7 +39,8 @@ export default function Home() {
       </div>
     </main>
   );
-}export default function Home() {
+}
+export default function Home() {
   return (
     <div style={{ fontFamily: 'Arial, sans-serif', padding: '20px' }}>
       <h1 style={{ color: '#003366' }}>AutoHawk</h1>
